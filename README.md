@@ -1,4 +1,4 @@
-#  AI-Powered Customer Support Ticketing System
+#  AI-Powered Customer Support service automation 
 
 > **SmartBridge Internship Project**  
 > **Program:** SmartBridge Internship (Implemented through SkillWallet & Salesforce)
@@ -10,19 +10,19 @@
 **Team ID:** SWTID-2026-9963
 
 ### Team Leader
-- **Thilak Nalla**
+- **muppidi madhuri**
 
 ### Team Members
-- Geethu Lahari
-- Swathi Vasireddy
-- Sri Sai Vijaya Durga Pushpa Adigarla
-- Venkata Sai Supriya Ramayanam
+- Bhanu rekha
+- Mamidi Rama Lakshmi
+- Volla Mohan Kumar
+- Muppidi Madhuri 
 
 ---
 
 # 📌 Project Overview
 
-The **AI-Powered Customer Support Ticketing System** is a Salesforce-based application developed as part of the **SmartBridge Internship Program** through **SkillWallet**.
+The **AI-Powered Customer Support Service automation ** is a Salesforce-based application developed as part of the **SmartBridge Internship Program** through **SkillWallet**.
 
 The project automates customer support operations using **Salesforce Administration**, **Flow Automation**, and **Agentforce AI**.
 
